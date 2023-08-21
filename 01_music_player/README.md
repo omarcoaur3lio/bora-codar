@@ -24,7 +24,7 @@ Este é o primeiro desafio realizado pela [Rocketseat](https://www.rocketseat.co
 
 ## :rocket: Tecnologias Utilizadas
 
-  <a href="https://react.dev/">
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
     <img alt="html" src="https://img.shields.io/badge/html-%2320232a.svg?style=for-the-badge&logo=html5&logoColor=%FF5C00" />
   </a>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">

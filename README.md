@@ -28,6 +28,7 @@ O `#boraCodar` é um projeto da [Rocketseat](https://www.rocketseat.com.br) onde
 | :--- | :------------- | :------ | :------|
 | `01` | `Music Player` |  [🧬](https://github.com/omarcoaur3lio/bora-codar/tree/main/%2301_music_player) |[👾]() |
 | `02` | `Product Card` |  [🧬](https://github.com/omarcoaur3lio/bora-codar/tree/main/02_product_card) |[👾]() |
+| `03` | `Buttons and Cursors` |  [🧬](https://github.com/omarcoaur3lio/bora-codar/tree/main/03_buttons_and_cursors) |[👾]() |
 
 
 <br>
