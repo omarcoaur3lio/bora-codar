@@ -1,7 +1,8 @@
 <p align="center">
-  <img src=".github/main-header.png" width="100%" />
+  <img src="../.github/header.png" width="100%" />
 </p>
-<p>
+<br>
+<p align="center">
   <a href="https://www.linkedin.com/in/omarcoaur3lio/">
     <img alt="Marco Aurélio" src="https://img.shields.io/badge/-Marco Aurélio-000?style=flat&logo=Linkedin&logoColor=FFF&labelColor=9b6bfa" />
   </a>
@@ -12,25 +13,29 @@
 
 ## :speech_balloon: Sobre
 
-O `#boraCodar` é um projeto da [Rocketseat](https://www.rocketseat.com.br) onde um novo desafio de desenvolvimento de software é proposto toda semana.
+Este é o quinto desafio realizado pela [Rocketseat](https://www.rocketseat.com.br) no programa #boraCodar. O desafio consiste em desenvolver uma calculadora. Neste projeto foi escolhido utilizar React com Typescript.
 
-<br>
+
+## :camera: Preview 
 
 <div align="center">
-  <img src=".github/cover.png" width=100% />
+  <img src="../.github/cover-05.gif" width=80% />
 </div>
 
-## ⚔️ Desafios
+## :rocket: Tecnologias Utilizadas
 
-[Paticipe dos desafios](https://boracodar.dev/)
-
-| #    | Name           | Code    | Deploy |
-| :--- | :------------- | :------ | :------|
-| `01` | `Music Player` |  [🧬](https://github.com/omarcoaur3lio/bora-codar/tree/main/%2301_music_player) |[👾]() |
-| `02` | `Product Card` |  [🧬](https://github.com/omarcoaur3lio/bora-codar/tree/main/02_product_card) |[👾]() |
-| `03` | `Buttons and Cursors` |  [🧬](https://github.com/omarcoaur3lio/bora-codar/tree/main/03_buttons_and_cursors) |[👾]() |
-| `04` | `Chat` |  [🧬](https://github.com/omarcoaur3lio/bora-codar/tree/main/04_chat) |[👾]() |
-| `05` | `Calculator React` |  [🧬](https://github.com/omarcoaur3lio/bora-codar/tree/main/05_calculator) |[👾]() |
+  <a href="https://react.dev/">
+    <img alt="reactjs" src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%FF5C00" />
+  </a>
+  <a href="https://www.typescriptlang.org/">
+    <img alt="typescript" src="https://img.shields.io/badge/typescript-%2320232a.svg?style=for-the-badge&logo=typescript&logoColor=2d6ee6" />
+  </a>
+  <a href="https://vitejs.dev/">
+    <img alt="vite" src="https://img.shields.io/badge/vite-%2320232a.svg?style=for-the-badge&logo=vite&logoColor=FFC51D" />
+  </a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
+    <img alt="css" src="https://img.shields.io/badge/CSS-%2320232a.svg?style=for-the-badge&logo=css3&logoColor=3DB4FE" />
+  </a>
 
 
 <br>
